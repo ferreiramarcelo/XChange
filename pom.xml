@@ -33,7 +33,7 @@
 
 		<version.assertj>3.10.0</version.assertj>
 		<version.commons.io>2.6</version.commons.io>
-		<version.commons.lang3>3.7</version.commons.lang3>
+		<version.commons.lang3>3.11</version.commons.lang3>
 		<version.fasterxml>2.9.6</version.fasterxml>
 		<version.github.mmazi>2.0.2</version.github.mmazi>
 		<version.junit>4.12</version.junit>
@@ -41,8 +41,11 @@
 		<version.powermock>1.7.4</version.powermock>
 		<version.qos.logback>1.2.3</version.qos.logback>
 		<version.reflections>0.9.11</version.reflections>
+
 		<version.slf4j>1.7.30</version.slf4j>
-		<version.crypto>3.4.0</version.crypto>
+	
+		<version.crypto>3.6.0</version.crypto>
+
 
 		<skipIntegrationTests>true</skipIntegrationTests>
 	</properties>
